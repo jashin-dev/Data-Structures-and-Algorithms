@@ -19,7 +19,7 @@ public class ArrayListBasics {
 
         }
 
-        // output for Arraylist
+        // output from Arraylist
 
         System.out.println(list);
 
